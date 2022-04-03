@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice_3_3</string>
+    <string-array name="sorting">
+        <item>Сортировка</item>
+        <item>По полу</item>
+        <item>По имени</item>
+        <item>По номеру телефона</item>
+    </string-array>
+</resources>

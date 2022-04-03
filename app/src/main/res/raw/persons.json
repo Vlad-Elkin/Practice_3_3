@@ -1,0 +1,23 @@
+{
+  "persons": [
+    {"sex": "MALE", "name": "George", "phoneNumber": "+761048248867"},
+    {"sex": "FEMALE", "name": "Alice", "phoneNumber": "+703224345410"},
+    {"sex": "UNKNOWN", "name": "Alex", "phoneNumber": "+75344950018"},
+
+    {"sex": "MALE", "name": "Nicolaus", "phoneNumber": "+75103940577"},
+    {"sex": "FEMALE", "name": "Judy", "phoneNumber": "+75155195079"},
+    {"sex": "UNKNOWN", "name": "Amari", "phoneNumber": "+73070197565"},
+
+    {"sex": "MALE", "name": "Oliver", "phoneNumber": "+71130257216"},
+    {"sex": "FEMALE", "name": "Rebecca", "phoneNumber": "+72557820893"},
+    {"sex": "UNKNOWN", "name": "Jordan", "phoneNumber": "+74461796943"},
+
+    {"sex": "MALE", "name": "Thomas", "phoneNumber": "+71111967772"},
+    {"sex": "FEMALE", "name": "Maria", "phoneNumber": "+70272230978"},
+    {"sex": "UNKNOWN", "name": "Blake", "phoneNumber": "+74776953047"},
+
+    {"sex": "MALE", "name": "Oscar", "phoneNumber": "+75929238568"},
+    {"sex": "FEMALE", "name": "Linda", "phoneNumber": "+79283151921"},
+    {"sex": "UNKNOWN", "name": "Morgan", "phoneNumber": "+71321714398"}
+  ]
+}
